@@ -1,0 +1,714 @@
+[
+    {
+        "id": "1",
+        "description": "Papas",
+        "price": 8,
+        "category": "verdura",
+        "stock": 90,
+        "minStock": 10,
+        "maxStock": 200
+    },
+    {
+        "id": "2",
+        "description": "Pepinos",
+        "price": 35,
+        "category": "verdura",
+        "stock": 25,
+        "minStock": 10,
+        "maxStock": 40
+    },
+    {
+        "id": "3",
+        "description": "Cilantro",
+        "price": 5.99,
+        "category": "verdura",
+        "stock": 50,
+        "minStock": 39,
+        "maxStock": 120
+    },
+    {
+        "id": "4",
+        "description": "Repollo",
+        "price": 12.59,
+        "category": "verdura",
+        "stock": 26,
+        "minStock": 10,
+        "maxStock": 100
+    },
+    {
+        "id": "5",
+        "description": "Cebolla",
+        "price": 26.5,
+        "category": "verdura",
+        "stock": 29,
+        "minStock": 10,
+        "maxStock": 40
+    },
+    {
+        "id": "6",
+        "description": "Alcachofa",
+        "price": 25.6,
+        "category": "verdura",
+        "stock": 5,
+        "minStock": 1,
+        "maxStock": 10
+    },
+    {
+        "id": "7",
+        "description": "Apio",
+        "price": 5.28,
+        "category": "verdura",
+        "stock": 8,
+        "minStock": 1,
+        "maxStock": 30
+    },
+    {
+        "id": "8",
+        "description": "Brocoli",
+        "price": 36.8,
+        "category": "verdura",
+        "stock": 2,
+        "minStock": 1,
+        "maxStock": 24
+    },
+    {
+        "id": "9",
+        "description": "Calabaza",
+        "price": 35.8,
+        "category": "verdura",
+        "stock": 26,
+        "minStock": 3,
+        "maxStock": 120
+    },
+    {
+        "id": "10",
+        "description": "Coles",
+        "price": 15.79,
+        "category": "verdura",
+        "stock": 4,
+        "minStock": 2,
+        "maxStock": 10
+    },
+    {
+        "id": "11",
+        "description":"Coliflor",
+        "price": 18.5,
+        "category": "verdura",
+        "stock": 22,
+        "minStock": 2,
+        "maxStock": 46
+    },
+    {
+        "id": "12",
+        "description": "Legums",
+        "price": 14.77,
+        "category": "verdura",
+        "stock": 35,
+        "minStock": 25,
+        "maxStock": 71
+    },
+    {
+        "id": "13",
+        "description": "Espinacas",
+        "price": 16.3,
+        "category": "verdura",
+        "stock": 58,
+        "minStock": 48,
+        "maxStock": 155
+    },
+    {
+        "id": "14",
+        "description": "Endibia",
+        "price": 13.02,
+        "category": "verdura",
+        "stock": 70,
+        "minStock": 15,
+        "maxStock": 149
+    },
+    {
+        "id": "15",
+        "description": "Escarolas",
+        "price": 22.6,
+        "category": "verdura",
+        "stock": 26,
+        "minStock": 15,
+        "maxStock": 58
+    },
+    {
+        "id": "16",
+        "description": "Lechuga",
+        "price": 20.1,
+        "category": "verdura",
+        "stock": 58,
+        "minStock": 25,
+        "maxStock": 127
+    },
+    {
+        "id": "17",
+        "description": "Lombarda",
+        "price": 14.18,
+        "category": "verdura",
+        "stock": 64,
+        "minStock": 59,
+        "maxStock": 133
+    },
+    {
+        "id": "18",
+        "description": "Nabo",
+        "price": 19.49,
+        "category": "verdura",
+        "stock": 47,
+        "minStock": 34,
+        "maxStock": 112
+    },
+    {
+        "id": "19",
+        "description": "Pimiento rojo",
+        "price": 15.12,
+        "category": "verdura",
+        "stock": 74,
+        "minStock": 4,
+        "maxStock": 185
+    },
+    {
+        "id": "20",
+        "description": "Puerro",
+        "price": 16.76,
+        "category": "verdura",
+        "stock": 14,
+        "minStock": 7,
+        "maxStock": 40
+    },
+    {
+        "id": "21",
+        "description": "Remolacha",
+        "price": 21.48,
+        "category": "verdura",
+        "stock": 69,
+        "minStock": 25,
+        "maxStock": 157
+    },
+    {
+        "id": "22",
+        "description": "Zanahora",
+        "price": 22.7,
+        "category": "verdura",
+        "stock": 29,
+        "minStock": 3,
+        "maxStock": 84
+    },
+    {
+        "id": "23",
+        "description": "Aguacate",
+        "price": 17.01,
+        "category": "verdura/fruta/no se",
+        "stock": 53,
+        "minStock": 23,
+        "maxStock": 124
+    },
+    {
+        "id": "24",
+        "description": "Chirimoya",
+        "price": 14.05,
+        "category": "fruta",
+        "stock": 49,
+        "minStock": 29,
+        "maxStock": 98
+    },
+    {
+        "id": "25",
+        "description": "Limon",
+        "price": 28.86,
+        "category": "fruta",
+        "stock": 80,
+        "minStock": 64,
+        "maxStock": 195
+    },
+    {
+        "id": "26",
+        "description": "Mandarina",
+        "price": 26.21,
+        "category": "fruta",
+        "stock": 56,
+        "minStock": 11,
+        "maxStock": 143
+    },
+    {
+        "id": "27",
+        "description": "Pera Amarilla",
+        "price": 27.81,
+        "category": "fruta",
+        "stock": 76,
+        "minStock": 23,
+        "maxStock": 188
+    },
+    {
+        "id": "28",
+        "description": "Platano",
+        "price": 18.5,
+        "category": "fruta",
+        "stock": 25,
+        "minStock": 2,
+        "maxStock": 73
+    },
+    {
+        "id": "29",
+        "description": "Uvas",
+        "price": 29.97,
+        "category": "fruta",
+        "stock": 51,
+        "minStock": 37,
+        "maxStock": 124
+    },
+    {
+        "id": "30",
+        "description": "Manzana",
+        "price": 25.26,
+        "category": "fruta",
+        "stock": 59,
+        "minStock": 46,
+        "maxStock": 163
+    },
+    {
+        "id": "31",
+        "description": "Naranja",
+        "price": 27.61,
+        "category": "fruta",
+        "stock": 21,
+        "minStock": 4,
+        "maxStock": 59
+    },
+    {
+        "id": "32",
+        "description": "Granada",
+        "price": 22.48,
+        "category": "fruta",
+        "stock": 38,
+        "minStock": 20,
+        "maxStock": 114
+    },
+    {
+        "id": "33",
+        "description": "Kiwi",
+        "price": 14.35,
+        "category": "fruta",
+        "stock": 23,
+        "minStock": 10,
+        "maxStock": 58
+    },
+    {
+        "id": "34",
+        "description": "Pera verde",
+        "price": 22.97,
+        "category": "fruta",
+        "stock": 3,
+        "minStock": 1,
+        "maxStock": 7
+    },
+    {
+        "id": "35",
+        "description": "Sandia",
+        "price": 13.55,
+        "category": "fruta",
+        "stock": 62,
+        "minStock": 18,
+        "maxStock": 179
+    },
+    {
+        "id": "36",
+        "description": "Melon",
+        "price": 28.96,
+        "category": "fruta",
+        "stock": 9,
+        "minStock": 6,
+        "maxStock": 21
+    },
+    {
+        "id": "37",
+        "description": "Durazno",
+        "price": 21.01,
+        "category": "fruta",
+        "stock": 67,
+        "minStock": 61,
+        "maxStock": 143
+    },
+    {
+        "id": "38",
+        "description": "Higo",
+        "price": 25.88,
+        "category": "fruta",
+        "stock": 8,
+        "minStock": 1,
+        "maxStock": 16
+    },
+    {
+        "id": "39",
+        "description": "Fresas",
+        "price": 15.18,
+        "category": "fruta",
+        "stock": 43,
+        "minStock": 38,
+        "maxStock": 115
+    },
+    {
+        "id": "40",
+        "description": "Arandanos",
+        "price": 21.32,
+        "category": "fruta",
+        "stock": 26,
+        "minStock": 22,
+        "maxStock": 73
+    },
+    {
+        "id": "41",
+        "description": "Frambuesa",
+        "price": 27.14,
+        "category": "fruta",
+        "stock": 78,
+        "minStock": 77,
+        "maxStock": 184
+    },
+    {
+        "id": "42",
+        "description": "Maracuya",
+        "price": 19.18,
+        "category": "fruta",
+        "stock": 26,
+        "minStock": 9,
+        "maxStock": 54
+    },
+    {
+        "id": "43",
+        "description": "Cerezas",
+        "price": 18.32,
+        "category": "fruta",
+        "stock": 30,
+        "minStock": 15,
+        "maxStock": 61
+    },
+    {
+        "id": "44",
+        "description": "Papaya",
+        "price": 15.13,
+        "category": "fruta",
+        "stock": 38,
+        "minStock": 29,
+        "maxStock": 80
+    },
+    {
+        "id": "45",
+        "description": "Coco",
+        "price": 11.73,
+        "category": "fruta",
+        "stock": 46,
+        "minStock": 34,
+        "maxStock": 117
+    },
+    {
+        "id": "46",
+        "description": "Tomatoes",
+        "price": 26.03,
+        "category": "fruta",
+        "stock": 18,
+        "minStock": 18,
+        "maxStock": 45
+    },
+    {
+        "id": "47",
+        "description": "Ciruela",
+        "price": 15.19,
+        "category": "fruta",
+        "stock": 25,
+        "minStock": 1,
+        "maxStock": 54
+    },
+    {
+        "id": "48",
+        "description": "Toronja",
+        "price": 18.18,
+        "category": "fruta",
+        "stock": 25,
+        "minStock": 4,
+        "maxStock": 61
+    },
+    {
+        "id": "49",
+        "description": "Mora",
+        "price": 25.62,
+        "category": "fruta",
+        "stock": 26,
+        "minStock": 4,
+        "maxStock": 56
+    },
+    {
+        "id": "50",
+        "description": "Membrillo",
+        "price": 27.35,
+        "category": "fruta",
+        "stock": 12,
+        "minStock": 9,
+        "maxStock": 31
+    },
+    {
+        "id": "51",
+        "description": "Lima",
+        "price": 28.59,
+        "category": "fruta",
+        "stock": 43,
+        "minStock": 3,
+        "maxStock": 129
+    },
+    {
+        "id": "52",
+        "description": "Mango",
+        "price": 15.79,
+        "category": "fruta",
+        "stock": 4,
+        "minStock": 2,
+        "maxStock": 10
+    },
+    {
+        "id": "53",
+        "description": "Olla",
+        "price": 17.48,
+        "category": "utensilios de cocina",
+        "stock": 22,
+        "minStock": 2,
+        "maxStock": 46
+    },
+    {
+        "id": "53",
+        "description": "Cazo",
+        "price": 14500,
+        "category": "utensilios de cocina",
+        "stock": 35,
+        "minStock": 25,
+        "maxStock": 71
+    },
+    {
+        "id": "55",
+        "description": "Sarten",
+        "price": 1230,
+        "category": "utensilios de cocina",
+        "stock": 58,
+        "minStock": 48,
+        "maxStock": 155
+    },
+    {
+        "id": "56",
+        "description": "Tetera",
+        "price": 15999,
+        "category": "utensilios de cocina",
+        "stock": 70,
+        "minStock": 15,
+        "maxStock": 149
+    },
+    {
+        "id": "57",
+        "description": "Escuridor",
+        "price": 2858.79,
+        "category": "utensilios de cocina",
+        "stock": 26,
+        "minStock": 15,
+        "maxStock": 58
+    },
+    {
+        "id": "58",
+        "description": "Colador",
+        "price": 20.31,
+        "category": "utensilios de cocina",
+        "stock": 58,
+        "minStock": 25,
+        "maxStock": 127
+    },
+    {
+        "id": "59",
+        "description": "Rallador",
+        "price": 1569,
+        "category": "utensilios de cocina",
+        "stock": 64,
+        "minStock": 59,
+        "maxStock": 133
+    },
+    {
+        "id": "60",
+        "description": "Cucharon",
+        "price": 1958.49,
+        "category": "utensilios de cocina",
+        "stock": 47,
+        "minStock": 34,
+        "maxStock": 112
+    },
+    {
+        "id": "61",
+        "description": "Mandolina",
+        "price": 1532.12,
+        "category": "utensilios de cocina",
+        "stock": 74,
+        "minStock": 4,
+        "maxStock": 185
+    },
+    {
+        "id": "62",
+        "description": "Batidor",
+        "price": 1256.76,
+        "category": "utensilios de cocina",
+        "stock": 14,
+        "minStock": 7,
+        "maxStock": 40
+    },
+    {
+        "id": "63",
+        "description": "Espatula",
+        "price": 21.48,
+        "category": "utensilios de cocina",
+        "stock": 69,
+        "minStock": 25,
+        "maxStock": 157
+    },
+    {
+        "id": "64",
+        "description": "Tabla de picar",
+        "price": 29.66,
+        "category": "utensilios de cocina",
+        "stock": 75,
+        "minStock": 67,
+        "maxStock": 151
+    },
+    {
+        "id": "65",
+        "description": "Cuchillo",
+        "price": 22.7,
+        "category": "utensilios de cocina",
+        "stock": 29,
+        "minStock": 3,
+        "maxStock": 84
+    },
+    {
+        "id": "66",
+        "description": "Pelador",
+        "price": 17.01,
+        "category": "utensilios de cocina",
+        "stock": 53,
+        "minStock": 23,
+        "maxStock": 124
+    },
+    {
+        "id": "67",
+        "description": "rodillo",
+        "price": 141.05,
+        "category": "utensilios de cocina",
+        "stock": 49,
+        "minStock": 29,
+        "maxStock": 98
+    },
+    {
+        "id": "68",
+        "description": "Espejo",
+        "price": 285.86,
+        "category": "objetos para baño",
+        "stock": 80,
+        "minStock": 64,
+        "maxStock": 195
+    },
+    {
+        "id": "69",
+        "description": "Toallas",
+        "price": 26.21,
+        "category": "objetos para baño",
+        "stock": 56,
+        "minStock": 11,
+        "maxStock": 143
+    },
+    {
+        "id": "70",
+        "description": "Pasta de dientes",
+        "price": 27.81,
+        "category": "objetos para baño",
+        "stock": 76,
+        "minStock": 23,
+        "maxStock": 188
+    },
+    {
+        "id": "71",
+        "description": "Crema",
+        "price": 18.5,
+        "category": "objetos para baño",
+        "stock": 25,
+        "minStock": 2,
+        "maxStock": 73
+    },
+    {
+        "id": "72",
+        "description": "Peine",
+        "price": 295.97,
+        "category": "objetos para baño",
+        "stock": 51,
+        "minStock": 37,
+        "maxStock": 124
+    },
+    {
+        "id": "73",
+        "description": "Champu",
+        "price": 251.26,
+        "category": "objetos para baño",
+        "stock": 59,
+        "minStock": 46,
+        "maxStock": 163
+    },
+    {
+        "id": "74",
+        "description": "Gel de ducha",
+        "price": 257.61,
+        "category": "objetos para baño",
+        "stock": 21,
+        "minStock": 4,
+        "maxStock": 59
+    },
+    {
+        "id": "75",
+        "description": "Jabon",
+        "price": 232.48,
+        "category": "objetos para baño",
+        "stock": 38,
+        "minStock": 20,
+        "maxStock": 114
+    },
+    {
+        "id": "76",
+        "description": "Cepillo de dientes",
+        "price": 14.35,
+        "category": "objetos para baño",
+        "stock": 23,
+        "minStock": 10,
+        "maxStock": 58
+    },
+    {
+        "id": "78",
+        "description": "Cepillo para el cabello",
+        "price": 224.97,
+        "category": "objetos para baño",
+        "stock": 3,
+        "minStock": 1,
+        "maxStock": 7
+    },
+    {
+        "id": "79",
+        "description": "Papel higienico",
+        "price": 143.55,
+        "category": "objetos para baño",
+        "stock": 62,
+        "minStock": 18,
+        "maxStock": 179
+    },
+    {
+        "id": "80",
+        "description": "Secadora",
+        "price": 2484.96,
+        "category": "objetos para baño",
+        "stock": 9,
+        "minStock": 6,
+        "maxStock": 21
+    }
+]
+
