@@ -1,4 +1,4 @@
-const Script  = require('./script');
+const Script  = require('./DAO');
 
 let productosDAO = new Script('./productos.json');
 
